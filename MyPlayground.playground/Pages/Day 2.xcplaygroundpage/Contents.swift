@@ -1,3 +1,5 @@
+// Day 2
+
 import UIKit
 
 // Array
